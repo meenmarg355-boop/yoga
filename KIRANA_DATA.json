@@ -1,0 +1,57 @@
+{
+  "lang": "hi",
+  "activeViewMode": "single",
+  "customers": [
+    {
+      "id": 1,
+      "name": "राजेश चौहान (Rajesh Chauhan)",
+      "bills": {
+        "2026-08-31": {
+          "items": [
+            {
+              "id": 101,
+              "name": "चीनी (Sugar)",
+              "price": 84
+            },
+            {
+              "id": 102,
+              "name": "सरसों तेल (Mustard Oil)",
+              "price": 140
+            }
+          ],
+          "trash": []
+        }
+      }
+    },
+    {
+      "id": 2,
+      "name": "संजय चौहान (Sanjay Chauhan)",
+      "bills": {
+        "2026-08-31": {
+          "items": [
+            {
+              "id": 201,
+              "name": "आटा (Atta)",
+              "price": 350
+            },
+            {
+              "id": 202,
+              "name": "टाटा नमक (Tata Salt)",
+              "price": 56
+            }
+          ],
+          "trash": []
+        }
+      }
+    }
+  ],
+  "selectedCustomerId": 1,
+  "selectedDate": "2026-08-31",
+  "authUsers": [
+    {
+      "name": "विहंगम किराना स्टोर",
+      "password": "266311"
+    }
+  ],
+  "lastSyncTime": null
+}
