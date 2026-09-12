@@ -1,0 +1,706 @@
+{
+  "appName": "VihangamKiranaStore",
+  "version": "3.5",
+  "backupDate": "2026-09-12T01:36:53.866Z",
+  "timestampReadable": "2026-09-12 07:06:53 AM",
+  "storeData": {
+    "lang": "hi",
+    "activeViewMode": "single",
+    "customers": [
+      {
+        "id": 1789080103536,
+        "name": "राजेश चौहान (Rajesh Chauhan)",
+        "bills": {
+          "2026-09-12": {
+            "items": [
+              {
+                "id": 1789176964766,
+                "name": "",
+                "price": 0
+              }
+            ],
+            "paid": 0,
+            "paidBy": "स्वयं",
+            "paidMode": "नकद (Cash)",
+            "paidNote": "",
+            "trash": []
+          }
+        }
+      },
+      {
+        "id": 1789080279502,
+        "name": "संजय चौहान (Sanjay Chauhan)",
+        "bills": {
+          "2026-09-11": {
+            "items": [
+              {
+                "id": 1789081028385,
+                "name": "चूड़ी(Bangle)",
+                "price": 115
+              },
+              {
+                "id": 1789081387190,
+                "name": "नमक (Salt)",
+                "price": 15
+              }
+            ],
+            "paid": 0,
+            "paidBy": "स्वयं",
+            "paidMode": "नकद (Cash)",
+            "paidNote": "",
+            "trash": []
+          }
+        }
+      },
+      {
+        "id": 1789080279504,
+        "name": "आदित्य सिंह (Aditya Singh)",
+        "bills": {}
+      },
+      {
+        "id": 1789080562485,
+        "name": "अनिल चौहान (Anil Chauhan)",
+        "bills": {
+          "2026-09-11": {
+            "items": [
+              {
+                "id": 1789081829641,
+                "name": "सोयाबीन (soyabeen)",
+                "price": 10
+              },
+              {
+                "id": 1789082014376,
+                "name": "चना दाल (Chana Dal)",
+                "price": 10
+              },
+              {
+                "id": 1789082023689,
+                "name": "रिफाइंड तेल (Refined Oil)",
+                "price": 80
+              },
+              {
+                "id": 1789082041898,
+                "name": "कुरकुरे (Kurkure)",
+                "price": 10
+              }
+            ],
+            "paid": 0,
+            "paidBy": "स्वयं",
+            "paidMode": "नकद (Cash)",
+            "paidNote": "",
+            "trash": []
+          }
+        }
+      },
+      {
+        "id": 1789080562486,
+        "name": "अंजनी चौहान (Anjani Chauhan)",
+        "bills": {}
+      },
+      {
+        "id": 1789080562487,
+        "name": "अर्जुन चौहान (Arjun Chauhan)",
+        "bills": {}
+      },
+      {
+        "id": 1789080562488,
+        "name": "अशोक चौहान (Ashok Chauhan)",
+        "bills": {}
+      },
+      {
+        "id": 1789080562489,
+        "name": "अवधेश चौहान (Avadhesh Chauhan)",
+        "bills": {}
+      },
+      {
+        "id": 1789080562490,
+        "name": "उमेश चौहान (Umesh Chauhan)",
+        "bills": {}
+      },
+      {
+        "id": 1789080562491,
+        "name": "कन्हैया चौहान (Kanhaiya Chauhan)",
+        "bills": {
+          "2026-09-11": {
+            "items": [
+              {
+                "id": 1789081762668,
+                "name": "चीनी (Sugar)",
+                "price": 16
+              },
+              {
+                "id": 1789081783205,
+                "name": "पार्ले (Parle)",
+                "price": 2
+              },
+              {
+                "id": 1789081794694,
+                "name": "चायपत्ती (Tea)",
+                "price": 2
+              }
+            ],
+            "paid": 0,
+            "paidBy": "स्वयं",
+            "paidMode": "नकद (Cash)",
+            "paidNote": "",
+            "trash": []
+          }
+        }
+      },
+      {
+        "id": 1789080562492,
+        "name": "टुनटुन चौहान (Tuntun Chauhan)",
+        "bills": {}
+      },
+      {
+        "id": 1789080562493,
+        "name": "पतरू चौहान (Patru Chauhan)",
+        "bills": {}
+      },
+      {
+        "id": 1789080562494,
+        "name": "पप्पु चौहान (Pappu Chauhan)",
+        "bills": {}
+      },
+      {
+        "id": 1789080562495,
+        "name": "महाजन चौहान (Mahajan Chauhan)",
+        "bills": {}
+      },
+      {
+        "id": 1789080562496,
+        "name": "मथुरा चौहान (Mathura Chauhan)",
+        "bills": {
+          "2026-09-11": {
+            "items": [
+              {
+                "id": 1789081581845,
+                "name": "चूड़ी(Bangle)",
+                "price": 25
+              },
+              {
+                "id": 1789081622425,
+                "name": "पार्ले (Parle)",
+                "price": 20
+              }
+            ],
+            "paid": 0,
+            "paidBy": "स्वयं",
+            "paidMode": "नकद (Cash)",
+            "paidNote": "",
+            "trash": []
+          }
+        }
+      },
+      {
+        "id": 1789080562497,
+        "name": "मीरा चौहान (Meera Chauhan)",
+        "bills": {}
+      },
+      {
+        "id": 1789080562498,
+        "name": "मुनेश्वर चौहान (Muneshwar Chauhan)",
+        "bills": {
+          "2026-09-11": {
+            "items": [
+              {
+                "id": 1789082135745,
+                "name": "लाचिदाना (Lachidana)",
+                "price": 10
+              }
+            ],
+            "paid": 0,
+            "paidBy": "स्वयं",
+            "paidMode": "नकद (Cash)",
+            "paidNote": "",
+            "trash": []
+          }
+        }
+      },
+      {
+        "id": 1789080562499,
+        "name": "मोछु चौहान (Mochhu Chauhan)",
+        "bills": {
+          "2026-09-11": {
+            "items": [
+              {
+                "id": 1789082067972,
+                "name": "केक (Cake)",
+                "price": 10
+              }
+            ],
+            "paid": 0,
+            "paidBy": "स्वयं",
+            "paidMode": "नकद (Cash)",
+            "paidNote": "",
+            "trash": []
+          }
+        }
+      },
+      {
+        "id": 1789080562500,
+        "name": "रमेश चौहान (Ramesh Chauhan)",
+        "bills": {
+          "2026-09-11": {
+            "items": [
+              {
+                "id": 1789081657171,
+                "name": "पार्ले (Parle)",
+                "price": 2
+              },
+              {
+                "id": 1789081737234,
+                "name": "नेल पॉलिश (nail palic)",
+                "price": 5
+              }
+            ],
+            "paid": 0,
+            "paidBy": "स्वयं",
+            "paidMode": "नकद (Cash)",
+            "paidNote": "",
+            "trash": []
+          }
+        }
+      },
+      {
+        "id": 1789080562501,
+        "name": "राम सिंह चौहान (Ram Singh Chauhan)",
+        "bills": {}
+      },
+      {
+        "id": 1789080562502,
+        "name": "विनोद चौहान (Vinod Chauhan)",
+        "bills": {}
+      },
+      {
+        "id": 1789080562503,
+        "name": "सहजा चौहान (Sahaja Chauhan)",
+        "bills": {}
+      },
+      {
+        "id": 1789080562504,
+        "name": "सरोज चौहान (Saroj Chauhan)",
+        "bills": {}
+      },
+      {
+        "id": 1789080562505,
+        "name": "सुरेश चौहान (Suresh Chauhan)",
+        "bills": {}
+      },
+      {
+        "id": 1789080562506,
+        "name": "श्रवण चौहान (Shrawan Chauhan)",
+        "bills": {}
+      },
+      {
+        "id": 1789080562507,
+        "name": "शिवबचन चौहान (Shivbachan Chauhan)",
+        "bills": {}
+      },
+      {
+        "id": 1789080562508,
+        "name": "श्री भगवान चौहान (Shri Bhagwan Chauhan)",
+        "bills": {}
+      },
+      {
+        "id": 1789080878142,
+        "name": "रामचंद्र तुरहा (Ramchandra Turha)",
+        "bills": {
+          "2026-09-11": {
+            "items": [
+              {
+                "id": 1789082245234,
+                "name": "कुरकुरे (Kurkure)",
+                "price": 10
+              },
+              {
+                "id": 1789082264252,
+                "name": "तेल (Oil)",
+                "price": 10
+              }
+            ],
+            "paid": 0,
+            "paidBy": "स्वयं",
+            "paidMode": "नकद (Cash)",
+            "paidNote": "",
+            "trash": []
+          }
+        }
+      },
+      {
+        "id": 1789080878143,
+        "name": "राई तुरहा (Rai Turha)",
+        "bills": {
+          "2026-09-11": {
+            "items": [
+              {
+                "id": 1789082387357,
+                "name": "चीनी (Sugar)",
+                "price": 51
+              },
+              {
+                "id": 1789082398951,
+                "name": "तेल (Oil)",
+                "price": 60
+              },
+              {
+                "id": 1789082409063,
+                "name": "पार्ले (Parle)",
+                "price": 2
+              },
+              {
+                "id": 1789082417272,
+                "name": "तेल (Oil)",
+                "price": 55
+              }
+            ],
+            "paid": 0,
+            "paidBy": "स्वयं",
+            "paidMode": "नकद (Cash)",
+            "paidNote": "",
+            "trash": []
+          }
+        }
+      },
+      {
+        "id": 1789080878144,
+        "name": "रमून तुरहा (Ramoon Turha)",
+        "bills": {}
+      },
+      {
+        "id": 1789080878145,
+        "name": "मनोज तुरहा (Manoj Turha)",
+        "bills": {
+          "2026-09-11": {
+            "items": [
+              {
+                "id": 1789082500662,
+                "name": "बिस्कुट (Biscuit)",
+                "price": 10
+              },
+              {
+                "id": 1789082686190,
+                "name": "जाली (forged)",
+                "price": 10
+              },
+              {
+                "id": 1789082716224,
+                "name": "चीनी (Sugar)",
+                "price": 20
+              },
+              {
+                "id": 1789082732817,
+                "name": "चायपत्ती (Tea)",
+                "price": 5
+              }
+            ],
+            "paid": 0,
+            "paidBy": "स्वयं",
+            "paidMode": "नकद (Cash)",
+            "paidNote": "",
+            "trash": []
+          }
+        }
+      },
+      {
+        "id": 1789080878146,
+        "name": "कन्हैयाचन्द तुरहा (Kanhaiyachand Turha)",
+        "bills": {
+          "2026-09-11": {
+            "items": [
+              {
+                "id": 1789082761604,
+                "name": "साबुन (Soap)",
+                "price": 10
+              },
+              {
+                "id": 1789083060956,
+                "name": "निरमा (Nirma)",
+                "price": 20
+              },
+              {
+                "id": 1789083072749,
+                "name": "कुरकुरे (Kurkure)",
+                "price": 5
+              },
+              {
+                "id": 1789083085582,
+                "name": "लहसुन (Garlic)",
+                "price": 5
+              },
+              {
+                "id": 1789083095983,
+                "name": "राजेश मसाला ( rajesh masala )",
+                "price": 5
+              },
+              {
+                "id": 1789083113328,
+                "name": "लाइफबॉय (Lifebuoy)",
+                "price": 11
+              }
+            ],
+            "paid": 0,
+            "paidBy": "स्वयं",
+            "paidMode": "नकद (Cash)",
+            "paidNote": "",
+            "trash": []
+          }
+        }
+      },
+      {
+        "id": 1789080878147,
+        "name": "विरोधी तुरहा (Virodhi Turha)",
+        "bills": {
+          "2026-09-11": {
+            "items": [
+              {
+                "id": 1789083204943,
+                "name": "तेल (Oil)",
+                "price": 50
+              },
+              {
+                "id": 1789083218280,
+                "name": "बेसन (Besan)",
+                "price": 20
+              }
+            ],
+            "paid": 0,
+            "paidBy": "स्वयं",
+            "paidMode": "नकद (Cash)",
+            "paidNote": "",
+            "trash": []
+          }
+        }
+      },
+      {
+        "id": 1789080878148,
+        "name": "गोपाल तुरहा (Gopal Turha)",
+        "bills": {}
+      },
+      {
+        "id": 1789080878149,
+        "name": "शिवजी तुरहा (Shivji Turha)",
+        "bills": {}
+      },
+      {
+        "id": 1789080878150,
+        "name": "दूधनाथ तुरहा (Dudhnath Turha)",
+        "bills": {}
+      },
+      {
+        "id": 1789080878151,
+        "name": "मल्लू तुरहा (Mallu Turha)",
+        "bills": {}
+      },
+      {
+        "id": 1789080878152,
+        "name": "बांगुर तुरहा (Bangur Turha)",
+        "bills": {
+          "2026-09-11": {
+            "items": [
+              {
+                "id": 1789083158716,
+                "name": "सेम्पू (Sempu)",
+                "price": 4
+              },
+              {
+                "id": 1789083166820,
+                "name": "चीनी (Sugar)",
+                "price": 10
+              }
+            ],
+            "paid": 0,
+            "paidBy": "स्वयं",
+            "paidMode": "नकद (Cash)",
+            "paidNote": "",
+            "trash": []
+          }
+        }
+      },
+      {
+        "id": 1789080878153,
+        "name": "कृष्णा चन्द तुरहा (Krishna Chand Turha)",
+        "bills": {
+          "2026-09-11": {
+            "items": [
+              {
+                "id": 1789083255067,
+                "name": "नमक (Salt)",
+                "price": 15
+              },
+              {
+                "id": 1789083280061,
+                "name": "हल्दी (Turmeric)",
+                "price": 5
+              },
+              {
+                "id": 1789083353667,
+                "name": "तेल (Oil)",
+                "price": 10
+              },
+              {
+                "id": 1789083377557,
+                "name": "लाचिदाना (Lachidana)",
+                "price": 12
+              },
+              {
+                "id": 1789083388374,
+                "name": "चूड़ी(Bangle)",
+                "price": 70
+              }
+            ],
+            "paid": 0,
+            "paidBy": "स्वयं",
+            "paidMode": "नकद (Cash)",
+            "paidNote": "",
+            "trash": []
+          }
+        }
+      },
+      {
+        "id": 1789080878154,
+        "name": "रुदल तुरहा (Rudal Turha)",
+        "bills": {}
+      },
+      {
+        "id": 1789080878155,
+        "name": "सुनील तुरहा (Sunil Turha)",
+        "bills": {}
+      },
+      {
+        "id": 1789080878156,
+        "name": "नंदजी तुरहा (Nandji Turha)",
+        "bills": {}
+      },
+      {
+        "id": 1789080878157,
+        "name": "राजेश तुरहा (Rajesh Turha)",
+        "bills": {
+          "2026-09-11": {
+            "items": [
+              {
+                "id": 1789083835650,
+                "name": "निरमा (Nirma)",
+                "price": 43
+              },
+              {
+                "id": 1789083863228,
+                "name": "लहसुन (Garlic)",
+                "price": 10
+              },
+              {
+                "id": 1789083895118,
+                "name": "लाल मिर्च (red chilli)",
+                "price": 5
+              },
+              {
+                "id": 1789084083437,
+                "name": "कायम (Kayam)",
+                "price": 10
+              },
+              {
+                "id": 1789084096558,
+                "name": "मसाला (Spices)",
+                "price": 10
+              },
+              {
+                "id": 1789084113104,
+                "name": "साबुन (Soap)",
+                "price": 10
+              },
+              {
+                "id": 1789084144402,
+                "name": "अरहर दाल (Toor Dal)",
+                "price": 45
+              }
+            ],
+            "paid": 50,
+            "paidBy": "स्वयं",
+            "paidMode": "नकद (Cash)",
+            "paidNote": "",
+            "trash": []
+          }
+        }
+      },
+      {
+        "id": 1789080955284,
+        "name": "भुवाल तुरहा (Bhuwal Turha)",
+        "bills": {
+          "2026-09-11": {
+            "items": [
+              {
+                "id": 1789084492286,
+                "name": "बाकी (Balance)",
+                "price": 125
+              }
+            ],
+            "paid": 0,
+            "paidBy": "स्वयं",
+            "paidMode": "नकद (Cash)",
+            "paidNote": "",
+            "trash": []
+          }
+        }
+      }
+    ],
+    "selectedCustomerId": 1789080103536,
+    "selectedDate": "2026-09-12"
+  },
+  "customItems": [
+    "बाकी (Balance)",
+    "कायम (Kayam)",
+    "मसाला (Spices)",
+    "लाल मिर्च (red chilli)",
+    "हल्दी (Turmeric)",
+    "लाइफबॉय (Lifebuoy)",
+    "सेम्पू (Sempu)",
+    "राजेश मसाला ( rajesh masala )",
+    "लहसुन (Garlic)",
+    "निरमा (Nirma)",
+    "साबुन (Soap)",
+    "जाली (forged)",
+    "बिस्कुट (Biscuit)",
+    "तेल (Oil)",
+    "लाचिदाना (Lachidana)",
+    "केक (Cake)",
+    "कुरकुरे (Kurkure)",
+    "चना (Gram)",
+    "सोयाबीन (soyabeen)",
+    "नेल पॉलिश (nail palic)",
+    "पार्ले (Parle)",
+    "चूड़ी(Bangle)",
+    "चीनी (Sugar)",
+    "आटा (Wheat Flour)",
+    "चावल (Rice)",
+    "सरसों तेल (Mustard Oil)",
+    "रिफाइंड तेल (Refined Oil)",
+    "अरहर दाल (Toor Dal)",
+    "चना दाल (Chana Dal)",
+    "मूंग दाल (Moong Dal)",
+    "चायपत्ती (Tea)",
+    "नमक (Salt)",
+    "हल्दी पाउडर (Turmeric)",
+    "धनिया पाउडर (Coriander)",
+    "मिर्च पाउडर (Chilli)",
+    "गरम मसाला (Garam Masala)",
+    "देसी घी (Desi Ghee)",
+    "नहाने का साबुन (Soap)",
+    "कपड़े धोने का सर्फ (Detergent)",
+    "टूथपेस्ट (Toothpaste)",
+    "नमकीन (Namkeen)",
+    "मैगी (Noodles)",
+    "पोहा (Poha)",
+    "सूजी / रवा (Suji)",
+    "बेसन (Besan)",
+    "जीरा (Cumin)",
+    "सरसों दाना (Mustard Seeds)"
+  ],
+  "authUsers": [
+    {
+      "name": "विहंगम किराना स्टोर",
+      "password": "266311"
+    }
+  ],
+  "customerDeletePin": "266312",
+  "customerAddPin": "266314"
+}
